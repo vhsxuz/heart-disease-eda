@@ -22,7 +22,7 @@ Fedesoriano. (September 2021). Heart Failure Prediction Dataset. Retrieved on 27
 - HeartDisease: output class [1: heart disease, 0: Normal]
 
 # Data Analysis Report
-to access the data analysis report, you can download the "report.html" file in this repository or 
+To access the data analysis report, you can download the "report.html" file in this repository or 
 <a href="https://vhsxuz.github.io/heart-disease-eda-report/">
 click here
 </a>
