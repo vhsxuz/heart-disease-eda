@@ -28,3 +28,6 @@ click here
 </a>
 
 # Summary
+We create this EDA in several simple steps. Our first step is to determine what technology we want to use. For this EDA, we use Python, Jupyter Notebook, and the library of Pandas for all the data-related purposes. The next step is to download the dataset that we want (Heart Failure Prediction Dataset by Fedesoriano) from Kaggle. After these steps, we then import the data to Python code and generate the profile by using the ProfileReport function from pandas_profiling. The data analysis report then could be accessed/viewed in HTML format. 
+
+From the report, we can see information that is considered highly correlated by the program. One of the examples is that the program finds that chest pain is highly correlated with heart disease (not confirmed by any journal or any professionals). <b>But, as the observable data is very few and we are not professionals in this field, we can't guarantee that any analysis produced is accurate and true.</b> But, on the other hand, we believed that this could be a new method for further data analysis purposes and still could be developed more. 
